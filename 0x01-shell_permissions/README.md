@@ -1,1 +1,1 @@
-This project will explore changing ownership
+This directory will explore changing file ownership.
