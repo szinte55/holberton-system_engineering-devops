@@ -1,0 +1,1 @@
+THis project will explore shell expansions and variables.
